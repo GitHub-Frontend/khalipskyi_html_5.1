@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+div {
+    margin: 0 auto;
+    width: 494px;
+    height: 644px;
+    border: 0px solid black;
+    }
+table {
+    border-collapse: collapse;
+    border: 12px solid white;
+    }
+td {
+    width: 50px;
+    height: 60px;
+    border: 8px solid black;
+    }
+.line2 .red {
+    background-color: rgb(210, 0, 0);
+    }
+.line1 .yellow1 {
+    background: rgb(250, 255, 0);
+    }
+.line3 .yellow2 {
+    background: rgb(250, 255, 0);
+    }
+.line2 .yellow2 {
+    background: rgb(250, 255, 0);
+    border-bottom-color: yellow;
+    }
+.line7 .yellow3 {
+    background: rgb(250, 255, 0);
+    border-bottom-color: yellow;
+    }
+.line6 .black {
+    background: rgba(0, 0, 0, 0.9);
+    }
+.line7 .black{
+    background: rgba(0, 0, 0, 0.9);
+    }
+.line8 .black {
+    background: rgba(0, 0, 0, 0.9);
+    }
+.line7 .blue {
+    background: rgb(0, 0, 255);
+    }
+.line9 .white {
+    border-right-color: white;
+    }
+.line9 .yellow4 {
+    background: rgb(250, 255, 0);
+    }
